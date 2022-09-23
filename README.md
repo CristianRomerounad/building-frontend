@@ -2,7 +2,7 @@
 
 This project uses React, Toolkit and Material UI
 
-##Descripción corta
+## Descripción corta
 Basicamente es una pagina web para que los arrendatarios de un edificio puedan hacer PQRS, consultar las normas, ver las infracciones más recientes, instrucciones
 de acceso a camaras, pagos de administración, etc
 
